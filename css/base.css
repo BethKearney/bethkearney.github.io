@@ -4,7 +4,10 @@
 
 .h0{ font-size:3rem }
 
-.h1{ font-size:2rem }
+.h1{ 
+  color: #df0078;
+  font-size: 3.25em;
+ }
 
 .h2{ font-size:1.5rem }
 
@@ -956,5 +959,5 @@ hr{
 }
 
 a{
-  color:#37a081
+  color: #031597;
 }
