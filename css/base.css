@@ -3,8 +3,8 @@
 .h00{ font-size:4rem }
 
 .h0{ 
-  color: #df0078;
- font-size:3.25rem
+  color: #df0078 !important;
+  font-size:3.25rem !important;
 }
 
 .h1{ 
