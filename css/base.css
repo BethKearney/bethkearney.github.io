@@ -2,11 +2,13 @@
 
 .h00{ font-size:4rem }
 
-.h0{ font-size:3rem }
+.h0{ 
+  color: #df0078;
+ font-size:3.25rem
+}
 
 .h1{ 
-  color: #df0078;
-  font-size: 3.25em;
+  font-size: 2.25em;
  }
 
 .h2{ font-size:1.5rem }
