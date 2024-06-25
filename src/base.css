@@ -56,6 +56,11 @@ body {
   font-size: 14px
 }
 
+.h1 {
+  color: #df0078;
+  font-size: 3.25em !important;
+}
+
 .h0 {
     font-variation-settings: "wght" 850;
     /* border: solid #e7e7e7; */
@@ -112,5 +117,5 @@ hr {
 }
 
 a {
-  color: #37a081
+  color: #031597;
 }
