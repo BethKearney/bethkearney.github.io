@@ -1,11 +1,25 @@
-/*! Basscss | http://basscss.com | MIT License */
+/*                  *
+ * Custom overrides *
+ *                  */
+.h0{
+    font-size:3.25rem !important;
+}
+
+.pink {
+     color: #df0078 !important;
+}
+
+a{
+  color: black;
+}
+
+/*
+! Basscss | http://basscss.com | MIT License
+*/
 
 .h00{ font-size:4rem }
 
-.h0{ 
-    color: #df0078 !important;
-  font-size:3.25rem !important;
-}
+
 
 .h1{ 
   color: #df0078 !important;
@@ -961,6 +975,5 @@ hr{
   border-bottom:1px solid;
 }
 
-a{
-  color: black;
-}
+
+
